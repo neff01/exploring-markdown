@@ -12,3 +12,4 @@ This is a repo/document for me to keep track of my bash commands and also practi
 - `rm` -**command to delete one or more files or directories_**
 - `ls` -**_command is used to list files or directories_**
 [ **Google definition**](https://www.google.com/search?client=safari&channel=mac_bm&sxsrf=ALeKk00C_7Kqs1jALGvZI6HMdqglduF8yA%3A1613530752725&ei=gIYsYK_sK6Lp_QbTx5q4Bw&q=what+does+the+ls+command+do&oq=what+does+the+ls+&gs_lcp=Cgdnd3Mtd2l6EAEYADIECAAQQzIECAAQQzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAOgQIIxAnOgUIABCRAjoICAAQsQMQgwE6CwguELEDEMcBEKMCOgUIABCxAzoCCC46BwgAEIcCEBRQtipY3Ulg61RoAHACeACAAa4BiAH8C5IBBDE3LjGYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=gws-wiz)
+# exploring-markdown
